@@ -1,0 +1,15 @@
+Log Analysis Project - Let's Answer the questions:
+	1-What are the most popular three articles of all time?
+		A:The most viewed articles are:
+			 Candidate is jerk, alleges rival with 342102 views
+			 Bears love berries, alleges bear with 256365 views
+			 Bad things gone, say good people with 171762 views
+	2-Who are the most popular article authors of all time?
+		A: The most popular authors are:
+			 Ursula La Multa with 512805 article views
+			 Rudolf von Treppenwitz with 427781 article views
+			 Anonymous Contributor with 171762 article views
+			 Markoff Chaney with 85387 article views
+	3-On which days did more than 1% of requests lead to errors?
+		A: On the following days:
+			 July 17, 2016 with 2.27% of them as errors
